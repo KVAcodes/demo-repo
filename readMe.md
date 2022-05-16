@@ -2,4 +2,4 @@
 
 LearningGit!
 
-## timeToLearn
+## timeToLearnGit
